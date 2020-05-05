@@ -58,7 +58,7 @@ Por ser projetada para ser social e não restritiva pode ser escalonada e vendid
 
 ### Baixe o códico no github como arquivo zip e o extraia numa pasta de sua escolha
 
-![executar01](https://github.com/AurelioMarquesVulcao/Sofia/blob/master/src/asset/images/executar01.PNG?raw=true)
+![executar01](https://github.com/felipealvessi/ShofIA/blob/master/src/asset/images/executar01.PNG)
 
 ### Abra a pasta onde colocou o seu código, pegue o caminho para a pasta e no seu terminal digite:
 

@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "1",
+    "product_name": "bolsa",
+    "color": "branca, azul",
+    "product_qty": "5",
+    "description": "bolsa de veludo da louis vuitton",
+    "seller_name": "felipe"
+  },
+  {
+    "_id": "2",
+    "product_name": "Conversor de TV Digital",
+    "color": "preto",
+    "product_qty": "2",
+    "description": "Frequendia de 43MHz ",
+    "seller_name": "lucas"
+  },
+  {
+    "_id": "3",
+    "product_name": "IPhone 11 Max",
+    "color": "branco e vermelho",
+    "product_qty": "24",
+    "description": "IPhone Original, nota fiscal e garantia",
+    "seller_name": "joao"
+  },
+  {
+    "_id": "4",
+    "product_name": "mesa",
+    "color": "banca, cinza e preta",
+    "product_qty": "2",
+    "description": "Mesa de 50 a 80 cm",
+    "seller_name": "pedro"
+  },
+  {
+    "_id": "5",
+    "product_name": "Carregador portatil",
+    "color": "preta e vermelha",
+    "product_qty": "4",
+    "description": "Bataria que dura 10 dias",
+    "seller_name": "Joel"
+  },
+  {
+    "_id": "6",
+    "product_name": "Dipirona",
+    "color": "cinza",
+    "product_qty": "10",
+    "description": "validade ate dezemdro de 2020",
+    "seller_name": "Gustavo"
+  },
+  {
+    "_id": "7",
+    "product_name": "pasta de dente",
+    "color": "branca",
+    "product_qty": "3",
+    "description": "data de fabricão 03/05/2020",
+    "seller_name": "Joice"
+  },
+  {
+    "_id": "8",
+    "product_name": "secador",
+    "color": "rosa e preto",
+    "product_qty": "18",
+    "description": "Bivolt",
+    "seller_name": "Andreza"
+  },
+  {
+    "_id": "9",
+    "product_name": "sonic o filme",
+    "color": "azul",
+    "product_qty": "10",
+    "description": "Sonic o filme legendado",
+    "seller_name": "felipe"
+  },
+  {
+    "_id": "10",
+    "product_name": "Mi Band 4",
+    "color": "preta",
+    "product_qty": "20",
+    "description": "a prova de água",
+    "seller_name": "luciano"
+  },
+  {
+    "_id": "11",
+    "product_name": "Galaxy S10+",
+    "color": "preta e branco",
+    "product_qty": "2",
+    "description": "Garantia e Assistencia no Brasil",
+    "seller_name": "luciano"
+  },
+  {
+    "_id": "12",
+    "product_name": "cadeirinha para bebe ",
+    "color": "preta e branca",
+    "product_qty": "5",
+    "description": "cadeira para criaça de 6 meses ate 1 ano",
+    "seller_name": "felipe"
+  },
+  {
+    "_id": "13",
+    "product_name": "Roda de Carro",
+    "color": "preta",
+    "product_qty": "3",
+    "description": "Pares de roda aro 22",
+    "seller_name": "thais"
+  },
+  {
+    "_id": "14",
+    "product_name": "redmi airdots",
+    "color": "preto  e branco",
+    "product_qty": "15",
+    "description": "Compativel com Android e IPhone",
+    "seller_name": "yngra"
+  },
+  {
+    "_id": "15",
+    "product_name": "Pote de Balas",
+    "color": "transparente",
+    "product_qty": "6",
+    "description": "Capacidade máxima para 100 balas",
+    "seller_name": "yago"
+  },
+  {
+    "_id": "16",
+    "product_name": "Pulseira",
+    "color": "preta, verde água",
+    "product_qty": "11",
+    "description": "Pulseira com várias colores",
+    "seller_name": "yasmim"
+  },
+  {
+    "_id": "17",
+    "product_name": "Controle USB",
+    "color": "branco, preto e cinza",
+    "product_qty": "55",
+    "description": "controle compativel com ps4, x box one e pc",
+    "seller_name": "pedro"
+  },
+  {
+    "_id": "18",
+    "product_name": "Monitor 23P IPS",
+    "color": "preto",
+    "product_qty": "2",
+    "description": "Monitor HDMI com ajuste de brilho",
+    "seller_name": "Julio"
+  },
+  {
+    "_id": "19",
+    "product_name": "Pelicula de Vidro",
+    "color": "transparente",
+    "product_qty": "55",
+    "description": "compativel com samsung, motorola, iphone e xiaomi",
+    "seller_name": "bruna"
+  },
+  {
+    "_id": "20",
+    "product_name": "PS4 Pro 1TB",
+    "color": "preto",
+    "product_qty": "1",
+    "description": "Pokemon Ruby vai de brinde",
+    "seller_name": "ronaldo"
+  },
+  {
+    "_id": "21",
+    "product_name": "Colchão Iniversal",
+    "color": "branco",
+    "product_qty": "6",
+    "description": "colchão comparivel qualquer tipo de berço",
+    "seller_name": "igor"
+  },
+  {
+    "_id": "22",
+    "product_name": "Placa Mão ASUS Gamer",
+    "color": "preta",
+    "product_qty": "7",
+    "description": "Placa mãe suporta processadores intel geração I3, I5, I7, I9",
+    "seller_name": "Maria"
+  },
+  {
+    "_id": "23",
+    "product_name": "Fogão 8 Bocas",
+    "color": "cinza",
+    "product_qty": "50",
+    "description": "fogão 8 bocas, disponivel para pronto entrega",
+    "seller_name": "jaqueline"
+  },
+  {
+    "_id": "24",
+    "product_name": "Cooler universal",
+    "color": "branco e preto",
+    "product_qty": "8",
+    "description": "compativel com o cabo do seu smartphone",
+    "seller_name": "janete"
+  },
+  {
+    "_id": "25",
+    "product_name": "Porta de Madeira",
+    "color": "marrom",
+    "product_qty": "1",
+    "description": "porta de madeira tamanho padrão de 3M",
+    "seller_name": "roberta"
+  },
+  {
+    "_id": "26",
+    "product_name": "Caneca personalizada",
+    "color": "branca",
+    "product_qty": "100",
+    "description": "caneca personalizada ao seu gosto",
+    "seller_name": "lucas"
+  },
+  {
+    "_id": "27",
+    "product_name": "messa de computador",
+    "color": "branca",
+    "product_qty": "6",
+    "description": "temos todos os tamanhos disponiveis",
+    "seller_name": "aurelio"
+  },
+  {
+    "_id": "28",
+    "product_name": "Ar condicionado",
+    "color": "branco",
+    "product_qty": "55",
+    "description": "Ar condicionado de janela",
+    "seller_name": "yngra"
+  },
+  {
+    "_id": "29",
+    "product_name": "echo dot 3",
+    "color": "cinza, preta e branca",
+    "product_qty": "9",
+    "description": "echo dot 3 compativel com qualquer smartphone",
+    "seller_name": "andreza"
+  },
+  {
+    "_id": "30",
+    "product_name": "Lampada inteligente RGB - Xiaomi",
+    "color": "cinza",
+    "product_qty": "30",
+    "description": "Compativel com a alexa( Echo dot 3, echo show 5 e 8",
+    "seller_name": "felipe"
+  }
+]

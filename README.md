@@ -1,6 +1,8 @@
-# IA SofiA
+# IA ShofIA
 
-### Por não encontrarmos um produto configuravél com as características que julgamos necessárias para o **Olist**, desenvolvemos do zero nossa própia IA. A **SofiA**
+###### Todos os créditos para [Aurelio Vulcão](https://github.com/AurelioMarquesVulcao)
+
+### Por não encontrarmos um produto configuravél com as características que julgamos necessárias para o **Olist**, desenvolvemos do zero nossa própia IA. A **ShofIA**
 
 **SofiA** tem o poder de analisar as perguntas feitas por clientes dos Marketplaces. Nossa robôzinha verifica se as respostas estão na descrição do produto e responde automaticamente.
 
@@ -31,9 +33,9 @@ https://github.com/yagobarros/olist-turby-service-go/tree/07911a0a814cefe14eafe2
 
 Por ser projetada para ser social e não restritiva pode ser escalonada e vendida como um produto próprio pelo **Olist** para outras plataformas de vendas que precisam tratar um número massivo de perguntas.
 
-## Usando a IA SofiA
+## Usando a IA ShofIA
 
-#### Foi utilizado a requisição GET para simplificar o uso e o teste de SofiA por qualquer pessoa não importando o nível de conhecimento técnico. Dessa forma qualquer um com o link: https://sofiaia.herokuapp.com/ , pode acessar os produtos para realizar testes, acrescentando as perguntas e o ID do próprio produto. conforme este exemplo: "https://sofiaia.herokuapp.com + /1/ + qual a cor da bolsa ?".
+#### Foi utilizado a requisição GET para simplificar o uso e o teste de ShofIA por qualquer pessoa não importando o nível de conhecimento técnico. Dessa forma qualquer um com o link: https://sofiaia.herokuapp.com/ , pode acessar os produtos para realizar testes, acrescentando as perguntas e o ID do próprio produto. conforme este exemplo: "https://sofiaia.herokuapp.com + /1/ + qual a cor da bolsa ?".
 
 ## Exemplos de como a sofia deverá funcionar:
 
